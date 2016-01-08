@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sellsword]]></title>
         <description><![CDATA[Sellsword]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sellsword/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 16:49:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 16:49:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sellsword/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21be6a89-417c-4497-9367-daa1a9cf5cb8.png">]]></description>
+            <link>https://thegrid.ai/sellsword/b680d7d4-084c-47d6-a16b-8c5317711143/index.html</link>
+            <guid isPermaLink="false">b680d7d4-084c-47d6-a16b-8c5317711143</guid>
+            <pubDate>Fri, 08 Jan 2016 16:49:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77a24efe-7f57-44a4-9877-f79a232e6c8e.jpg">]]></description>
-            <link>undefined1a31f701-fb37-4c0c-a8e9-1f92d74d8bd3/index.html</link>
+            <link>https://thegrid.ai/sellsword/1a31f701-fb37-4c0c-a8e9-1f92d74d8bd3/index.html</link>
             <guid isPermaLink="false">1a31f701-fb37-4c0c-a8e9-1f92d74d8bd3</guid>
             <pubDate>Fri, 08 Jan 2016 16:49:19 GMT</pubDate>
         </item>
