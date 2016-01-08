@@ -1,7 +1,7 @@
 name: Sellsword
 favicon: null
-layout_spectrum: 0.8965670499019325
-typography_spectrum: 0.03622706583701074
+layout_spectrum: 1
+typography_spectrum: 0.37377
 title: Sellsword - Seriously Unserious Heavy/Power Metal from Yorkshire
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.17781459051184356
+    - '#210900'
+    - '#f7cf87'
+    - '#402400'
+    - '#78572a'
+    - '#b18b53'
+  brandStrength: 0.25
   lightness: 0.14445911766961217
   saturation: 0.6750016359146684
-  rhythmicContrast: 0.09222180978395045
+  rhythmicContrast: 0.75
 purpose: []
