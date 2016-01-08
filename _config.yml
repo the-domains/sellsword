@@ -1,0 +1,28 @@
+name: Sellsword
+favicon: null
+layout_spectrum: 0.8965670499019325
+typography_spectrum: 0.03622706583701074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.17781459051184356
+  lightness: 0.14445911766961217
+  saturation: 0.6750016359146684
+  rhythmicContrast: 0.09222180978395045
+purpose: []
